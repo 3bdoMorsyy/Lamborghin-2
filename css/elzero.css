@@ -486,6 +486,8 @@ header .nav .bars:hover span {
     }
     .models .text {
         top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
     }
     .models .text span {
         display: none;
