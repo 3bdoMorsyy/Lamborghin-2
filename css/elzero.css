@@ -516,7 +516,10 @@ header .nav .bars:hover span {
         color: white;
         margin: 3px auto 15px;
     }
-
+    .models .car-name span span::before {
+        top: 14px;
+        left: 17px;
+    }
 }
 
 /* End Models */
